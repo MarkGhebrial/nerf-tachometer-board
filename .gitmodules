@@ -1,0 +1,3 @@
+[submodule "marks-kicad-library"]
+	path = marks-kicad-library
+	url = https://github.com/MarkGhebrial/marks-kicad-library

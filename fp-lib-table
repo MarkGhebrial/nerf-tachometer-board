@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Marks Library")(type "KiCad")(uri "${KIPRJMOD}/marks-kicad-library/Marks_Footprints.pretty")(options "")(descr ""))
+)
