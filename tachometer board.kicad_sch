@@ -354,7 +354,7 @@
     (pin "3" (uuid 61f69771-6ca8-40d3-b4f5-3ed071528d3e))
     (pin "4" (uuid dce1d31e-49ef-4fb5-9979-df4ac714d0dc))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "U1") (unit 1)
         )
@@ -377,10 +377,13 @@
     (property "Datasheet" "~" (at 168.275 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "CRCW1210470RFKEA" (at 168.275 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e21ee395-8e6e-44ae-891b-9c986d9887c3))
     (pin "2" (uuid b5de5a04-053f-4a77-8cf6-c3ba0241bb87))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "R2") (unit 1)
         )
@@ -405,7 +408,7 @@
     )
     (pin "1" (uuid 4da44e4e-6980-4f96-9094-bdab82e5f6f6))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "#PWR04") (unit 1)
         )
@@ -430,7 +433,7 @@
     )
     (pin "1" (uuid 0f0a329e-633a-449f-a28d-25fee94ecaab))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "#PWR03") (unit 1)
         )
@@ -458,7 +461,7 @@
     (pin "3" (uuid 7e9a7852-6065-405c-a93d-9b9ea1dfc7c4))
     (pin "4" (uuid 58c386fb-d18a-449c-9809-c31dc2e023d4))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "U2") (unit 1)
         )
@@ -483,7 +486,7 @@
     )
     (pin "1" (uuid 3a71dbd8-0656-43b0-b8af-4e81066166b4))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "#PWR02") (unit 1)
         )
@@ -511,7 +514,7 @@
     (pin "3" (uuid 2042173d-8af8-4c38-92c1-c74e9d2e773c))
     (pin "4" (uuid 2d078e11-419c-4e42-8fcd-cbb519e5a3d0))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "J1") (unit 1)
         )
@@ -534,10 +537,13 @@
     (property "Datasheet" "~" (at 168.275 59.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "CRCW1210470RFKEA" (at 168.275 59.055 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 641c8ce7-720b-4b64-b056-a65f3adffd9c))
     (pin "2" (uuid 3409fc78-ed55-42e1-a433-eff3c6ce2fd6))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "R1") (unit 1)
         )
@@ -562,7 +568,7 @@
     )
     (pin "1" (uuid a5c58ebe-609c-41e7-8ad0-842cabf9b247))
     (instances
-      (project "protean board"
+      (project "tachometer board"
         (path "/e74b6ee1-b9f5-4a36-af13-778b210f46d3"
           (reference "#PWR01") (unit 1)
         )
